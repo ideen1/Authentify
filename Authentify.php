@@ -25,14 +25,14 @@ class Authentify {
         // Google Sign-in:
         "google" => 
             [
-            "CLIENT_KEY" => "757078276056-8q82tlubgag6ds518dq5ommo6q5ksf6a.apps.googleusercontent.com", 
-            "SECRET" => "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"
+            "CLIENT_KEY" => "", 
+            "SECRET" => ""
             ],
         
         // Facebook Sign-in:
         "facebook" => [
-            "CLIENT_KEY" => "1340663753116498", 
-            "SECRET" => "3ed9b578aef43d52046cae49e4068c0a"
+            "CLIENT_KEY" => "", 
+            "SECRET" => ""
             ],
 
         "twitter" => [
