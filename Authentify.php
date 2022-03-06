@@ -5,13 +5,12 @@
     in README for deployment and implementation guide.
     Created by Ideen B. in 2022
 
-    **This software is provided under the * License**.
+    **This software is provided under the Apache License**.
 
 */
 require_once("lib/AuthentifyGlobal.php");
 require_once("lib/AuthentifyDisplay.php");
 require_once("lib/AuthentifyError.php");
-
 
 class Authentify {
 
@@ -25,14 +24,14 @@ class Authentify {
         // Google Sign-in:
         "google" => 
             [
-            "CLIENT_KEY" => "", 
-            "SECRET" => ""
+            "CLIENT_KEY" => "757078276056-8q82tlubgag6ds518dq5ommo6q5ksf6a.apps.googleusercontent.com", 
+            "SECRET" => "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"
             ],
         
         // Facebook Sign-in:
         "facebook" => [
-            "CLIENT_KEY" => "", 
-            "SECRET" => ""
+            "CLIENT_KEY" => "1340663753116498", 
+            "SECRET" => "3ed9b578aef43d52046cae49e4068c0a"
             ],
 
         "twitter" => [
