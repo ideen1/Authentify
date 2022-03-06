@@ -24,8 +24,8 @@ class Authentify {
         // Google Sign-in:
         "google" => 
             [
-            "CLIENT_KEY" => "757078276056-8q82tlubgag6ds518dq5ommo6q5ksf6a.apps.googleusercontent.com", 
-            "SECRET" => "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"
+            "CLIENT_KEY" => "", 
+            "SECRET" => ""
             ],
         
         // Facebook Sign-in:
