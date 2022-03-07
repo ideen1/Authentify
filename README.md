@@ -25,7 +25,7 @@ if($auth->runAuth()){
 ```
 4. Place this line where you want the login buttons to appear.
 ```php
-$autht->displayForm();
+$auth->displayForm();
 ```
 ## Returned Parameters:
 The following parameters can be accessed after runAuth() has been checked. Attempting to use them before a login will throw an error.
