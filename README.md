@@ -1,7 +1,7 @@
 # Authentify
 A simple PHP Class that handles third-party login and returns user information.
 Authentify will handle everything from displaying the login buttons to handling the login flow on the backend.
-Every effort has been made to make the instructiosn clear, however there is an index.php provided that demos simple usage of Authentify
+Every effort has been made to make usage instructions clear, however there is an index.php provided that demos simple usage of Authentify
 
 ## Configuration:
 Open Authentify.php and include correct Client Keys and Secrets for each login provider you wish to use.
