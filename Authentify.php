@@ -30,8 +30,8 @@ class Authentify {
         
         // Facebook Sign-in:
         "facebook" => [
-            "CLIENT_KEY" => "1340663753116498", 
-            "SECRET" => "3ed9b578aef43d52046cae49e4068c0a"
+            "CLIENT_KEY" => "", 
+            "SECRET" => ""
             ],
 
         "twitter" => [
