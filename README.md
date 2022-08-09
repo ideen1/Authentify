@@ -39,4 +39,4 @@ $auth->getUserPhoto(); // Returns user profile photo provided by authentication 
 $auth->getEmailVerified(); // Returns boolean depending on if the email is verified
 
 ```
-Typically these values can then be processed by your database just as normal login values
+Typically these values can then be processed by your database as normal login values
